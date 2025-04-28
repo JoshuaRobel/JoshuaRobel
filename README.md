@@ -22,9 +22,9 @@ Currently focused on developing technical depth through structured home labs and
 <p align="left">
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-red?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge"/>
   <img src="https://img.shields.io/badge/CompTIA%20Network%2B-Planned-blue?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Network+ Badge"/>
-  <img src="https://img.shields.io/badge/Certificate%20IV%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate IV in IT Badge"/>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge" alt="Google Cybersecurity Certificate Badge"/>
-  <img src="https://img.shields.io/badge/Bachelor%20of%20Business-Completed-brightgreen?style=for-the-badge" alt="Bachelor of Business Badge"/>
+  <img src="https://img.shields.io/badge/Certificate%20IV%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate IV in IT Badge"/>
+  <img src="https://img.shields.io/badge/Bachelor%20of%20Business%20(Griffith%20University)-Completed-brightgreen?logo=academia&logoColor=white&style=for-the-badge" alt="Griffith University Bachelor Badge"/>
 </p>
 
 ---
