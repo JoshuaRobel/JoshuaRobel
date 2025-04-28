@@ -15,7 +15,13 @@ Currently focused on developing technical depth through structured home labs and
 
 - 🎯 **Career Goal:** SOC Analyst | Junior Penetration Tester | Vulnerability Management
 - 🛠 **Key Skills:** Network Security | Active Directory Security | Web Application Testing | SIEM Monitoring
-- 📚 **Active Learning:** Offensive Security | Blue Team Operations | Digital Forensics
+- 📚 **Active Learning and Certifications:**  
+  - Offensive Security | Blue Team Operations | Digital Forensics  
+  - CompTIA Security+ (in progress)  
+  - CompTIA Network+ (planned)  
+  - Certificate IV in Information Technology (completed)  
+  - Google Cybersecurity Certificate (completed)  
+  - Bachelor of Business (completed)
 
 ---
 
