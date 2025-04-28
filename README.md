@@ -29,7 +29,7 @@ Currently focused on developing technical depth through structured home labs and
 
 ---
 
-## 🔥 Featured Projects
+## 💻 Featured Projects
 
 | Project | Description | Link |
 |:---|:---|:---|
