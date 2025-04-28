@@ -9,7 +9,7 @@ Welcome to my cybersecurity portfolio — a showcase of hands-on labs, technical
 ## 🧠 About Me
 I am a cybersecurity professional, building a strong foundation across ethical hacking, threat detection, vulnerability assessment, and incident response.
 
-With a background in IT and business management, I bring an analytical mindset, strong problem-solving skills, and a drive to continuously learn and adapt in the ever-evolving cybersecurity landscape.
+With a background in IT and business management, I bring an analytical mindset, strong problem-solving skills, leadership skills and a drive to continuously learn and adapt in the ever-evolving cybersecurity landscape.
 
 Currently focused on developing technical depth through structured home labs and certifications, with the goal of securing a cybersecurity role in a fast-paced, challenging environment.
 
