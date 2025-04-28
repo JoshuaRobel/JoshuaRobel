@@ -2,29 +2,39 @@
 
 <h2>👨‍💻 Active Directory Home Lab </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+# 🔒 Josh's Cybersecurity Portfolio
 
-<h2>📺 Popular YouTube Videos</h2>
+Welcome to my cybersecurity portfolio — a showcase of hands-on labs, technical projects, and research designed to demonstrate practical skills across offensive security, defensive operations, and vulnerability management.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
+
+## 🧠 About Me
+I am a cybersecurity professional-in-training, building a strong foundation across ethical hacking, threat detection, vulnerability assessment, and incident response.
+
+With a background in IT and business management, I bring an analytical mindset, strong problem-solving skills, and a drive to continuously learn and adapt in the ever-evolving cybersecurity landscape.
+
+Currently focused on developing technical depth through structured home labs and certifications, with the goal of securing an entry-level cybersecurity role in a fast-paced, challenging environment.
+
+- 🎯 **Career Goal:** SOC Analyst | Junior Penetration Tester | Vulnerability Management
+- 🛠 **Key Skills:** Network Security | Active Directory Security | Web Application Testing | SIEM Monitoring
+- 📚 **Active Learning:** Offensive Security | Blue Team Operations | Digital Forensics
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Link |
+|:---|:---|:---|
+| **Vulnerability Assessment – Metasploitable2** | Conducted a full vulnerability scan using OpenVAS, prioritized risks, and delivered a formal remediation report. | [View Project](https://github.com/yourname/vuln-scan-metasploitable) |
+| **Web Application Penetration Testing – OWASP Juice Shop** | Identified OWASP Top 10 vulnerabilities using Burp Suite, documented exploitation techniques, and proposed security improvements. | [View Project](https://github.com/yourname/owasp-juice-shop-pen-test) |
+| **Active Directory Domain Setup** | Built a Windows Server 2019 AD domain environment from scratch, including user and group policy configurations. | [View Project](https://github.com/yourname/active-directory-lab) |
+| **Active Directory Attack and Hardening** | Mapped attack paths using BloodHound, executed password spraying and credential dumping attacks, and applied hardening measures. | [View Project](https://github.com/yourname/ad-attack-defense-lab) |
+| **SIEM Deployment and Log Analysis – Wazuh** | Deployed Wazuh SIEM, ingested Windows/Linux logs, and created custom alert rules for detection of suspicious activities. | [View Project](https://github.com/yourname/siem-log-analysis) |
+| **Malware Analysis – Static and Dynamic Techniques** | Performed static and behavioral analysis of malware samples in a controlled environment and extracted indicators of compromise (IOCs). | [View Project](https://github.com/yourname/malware-analysis-lab) |
+
+---
+
+_"Building secure systems, one project at a time."_
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -34,17 +44,3 @@
 [instagram]: https://www.instagram.com/joshuarobel/
 [linkedin]: https://linkedin.com/in/joshuarobel
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
