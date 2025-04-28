@@ -1,7 +1,5 @@
 <h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshuarobel/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Active Directory Home Lab </h2>
-
 # 🔒 Josh's Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio — a showcase of hands-on labs, technical projects, and research designed to demonstrate practical skills across offensive security, defensive operations, and vulnerability management.
