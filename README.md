@@ -15,13 +15,17 @@ Currently focused on developing technical depth through structured home labs and
 
 - 🎯 **Career Goal:** SOC Analyst | Junior Penetration Tester | Vulnerability Management
 - 🛠 **Key Skills:** Network Security | Active Directory Security | Web Application Testing | SIEM Monitoring
-- 📚 **Active Learning and Certifications:**  
-  - Offensive Security | Blue Team Operations | Digital Forensics  
-  - CompTIA Security+ (in progress)  
-  - CompTIA Network+ (planned)  
-  - Certificate IV in Information Technology (completed)  
-  - Google Cybersecurity Certificate (completed)  
-  - Bachelor of Business (completed)
+- 📚 **Active Learning:** Offensive Security | Blue Team Operations | Digital Forensics
+
+ ## 🏆 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-red?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge"/>
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-Planned-blue?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Network+ Badge"/>
+  <img src="https://img.shields.io/badge/Certificate%20IV%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate IV in IT Badge"/>
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge" alt="Google Cybersecurity Certificate Badge"/>
+  <img src="https://img.shields.io/badge/Bachelor%20of%20Business-Completed-brightgreen?style=for-the-badge" alt="Bachelor of Business Badge"/>
+</p>
 
 ---
 
