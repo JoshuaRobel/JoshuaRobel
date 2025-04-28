@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio — a showcase of hands-on labs, technical
 ---
 
 ## 🧠 About Me
-I am a cybersecurity professional-in-training, building a strong foundation across ethical hacking, threat detection, vulnerability assessment, and incident response.
+I am a cybersecurity professional, building a strong foundation across ethical hacking, threat detection, vulnerability assessment, and incident response.
 
 With a background in IT and business management, I bring an analytical mindset, strong problem-solving skills, and a drive to continuously learn and adapt in the ever-evolving cybersecurity landscape.
 
