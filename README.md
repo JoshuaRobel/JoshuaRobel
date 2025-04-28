@@ -11,7 +11,7 @@ I am a cybersecurity professional-in-training, building a strong foundation acro
 
 With a background in IT and business management, I bring an analytical mindset, strong problem-solving skills, and a drive to continuously learn and adapt in the ever-evolving cybersecurity landscape.
 
-Currently focused on developing technical depth through structured home labs and certifications, with the goal of securing an entry-level cybersecurity role in a fast-paced, challenging environment.
+Currently focused on developing technical depth through structured home labs and certifications, with the goal of securing a cybersecurity role in a fast-paced, challenging environment.
 
 - 🎯 **Career Goal:** SOC Analyst | Junior Penetration Tester | Vulnerability Management
 - 🛠 **Key Skills:** Network Security | Active Directory Security | Web Application Testing | SIEM Monitoring
