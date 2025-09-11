@@ -38,12 +38,13 @@ Currently focused on developing technical depth through structured home labs and
 | **Active Directory Domain Setup** | Built a Windows Server 2019 AD domain environment from scratch, including user and group policy configurations. | [View Project](https://github.com/yourname/active-directory-lab) |
 | **Active Directory Attack and Hardening** | Mapped attack paths using BloodHound, executed Kerberoasting and password spraying attacks, and applied hardening measures. | [View Project](https://github.com/yourname/ad-attack-defense-lab) |
 | **SIEM Deployment and Log Analysis – Wazuh & ELK** | Deployed Wazuh SIEM and Elastic Stack, ingested Windows/Linux logs, and created custom detection rules for suspicious PowerShell and persistence activities. | [View Project](https://github.com/yourname/siem-log-analysis) |
-| **Malware Analysis – Static and Dynamic Techniques** | Performed static and behavioural analysis of malware samples in a controlled environment, extracted indicators of compromise (IOCs), and produced a threat intel report. | [View Project](https://github.com/yourname/malware-analysis-lab) |
-| **Cloud Security Lab – AWS/Azure** | Configured cloud resources, exploited misconfigured S3 bucket/IAM roles, enabled CloudTrail logging, and applied best practices for identity and access management. | [View Project](https://github.com/yourname/cloud-security-lab) |
+| **Threat Hunting with Sigma Rules** | Used Sigma rules with Wazuh/ELK to hunt for lateral movement, persistence, and credential access in a lab environment. | [View Project](https://github.com/yourname/threat-hunting-lab) |
 | **Incident Response Simulation** | Simulated ransomware attack in lab, analysed logs, executed detection and containment steps, and produced an incident response report with lessons learned. | [View Project](https://github.com/yourname/incident-response-lab) |
 | **Phishing Simulation & Detection** | Built a phishing campaign in a controlled lab, captured credentials, then mitigated using SPF, DKIM, and DMARC. Documented detection with SIEM alerts. | [View Project](https://github.com/yourname/phishing-simulation) |
-| **Threat Hunting with Sigma Rules** | Used Sigma rules with Wazuh/ELK to hunt for lateral movement, persistence, and credential access in a lab environment. | [View Project](https://github.com/yourname/threat-hunting-lab) |
-| **CTF / HackTheBox Walkthroughs** *(Optional)* | Completed and documented 1–2 HackTheBox machines (Easy/Medium), showing methodology, exploitation, and post-exploitation steps. | [View Project](https://github.com/yourname/htb-walkthroughs) |
+| **Malware Analysis – Static and Dynamic Techniques** | Performed static and behavioural analysis of malware samples in a controlled environment, extracted indicators of compromise (IOCs), and produced a threat intel report. | [View Project](https://github.com/yourname/malware-analysis-lab) |
+| **Cloud Security Lab – AWS/Azure** | Configured cloud resources, exploited misconfigured S3 bucket/IAM roles, enabled CloudTrail logging, and applied best practices for identity and access management. | [View Project](https://github.com/yourname/cloud-security-lab) |
+| **CTF / TryHackMe Walkthroughs** | Completed and documented 1–2 TryHackMe machines (Easy/Medium), showing methodology, exploitation, and post-exploitation steps. | [View Project](https://github.com/yourname/htb-walkthroughs) |
+
 
 
 ---
