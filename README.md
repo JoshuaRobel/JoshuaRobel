@@ -17,6 +17,21 @@ Currently focused on developing technical depth through structured home labs and
 - 🛠 **Key Skills:** Network Security | Active Directory Security | Web Application Testing | SIEM Monitoring
 - 📚 **Active Learning:** Offensive Security | Blue Team Operations | Digital Forensics
 
+---
+
+## 🔗 Main portfolio
+👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/Cyber-Portfolio)
+
+---
+
+## 🛠 Skills and tools
+Kali Linux • Ubuntu • Windows • Active Directory  
+Docker • Burp Suite • OWASP ZAP  
+OpenVAS • Wazuh • Elastic (ELK)  
+Sigma rules • Threat hunting • Incident response • Malware analysis  
+
+---
+
  ## 🏆 Certifications
 
 <p align="left">
