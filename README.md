@@ -33,17 +33,17 @@ Currently focused on developing technical depth through structured home labs and
 
 | Project | Description | Link |
 |:---|:---|:---|
-| **Vulnerability Assessment – Ubuntu VM (DVWA, Juice Shop & Vulhub)** | Conducted vulnerability scans using OpenVAS and nmap against intentionally vulnerable apps (DVWA, Juice Shop, and Vulhub) running on Ubuntu VM, prioritised risks by CVSS, and delivered formal remediation reports. | [View Project](https://github.com/yourname/vuln-scan-ubuntu) |
-| **Web Application Penetration Testing – OWASP Juice Shop** | Identified OWASP Top 10 vulnerabilities using Burp Suite and OWASP ZAP, documented exploitation techniques, and proposed security improvements. | [View Project](https://github.com/yourname/owasp-juice-shop-pen-test) |
-| **Active Directory Domain Setup** | Built a Windows Server 2019 AD domain environment from scratch, including user and group policy configurations. | [View Project](https://github.com/yourname/active-directory-lab) |
-| **Active Directory Attack and Hardening** | Mapped attack paths using BloodHound, executed Kerberoasting and password spraying attacks, and applied hardening measures. | [View Project](https://github.com/yourname/ad-attack-defense-lab) |
-| **SIEM Deployment and Log Analysis – Wazuh & ELK** | Deployed Wazuh SIEM and Elastic Stack, ingested Windows/Linux logs, and created custom detection rules for suspicious PowerShell and persistence activities. | [View Project](https://github.com/yourname/siem-log-analysis) |
-| **Threat Hunting with Sigma Rules** | Used Sigma rules with Wazuh/ELK to hunt for lateral movement, persistence, and credential access in a lab environment. | [View Project](https://github.com/yourname/threat-hunting-lab) |
-| **Incident Response Simulation** | Simulated ransomware attack in lab, analysed logs, executed detection and containment steps, and produced an incident response report with lessons learned. | [View Project](https://github.com/yourname/incident-response-lab) |
-| **Phishing Simulation & Detection** | Built a phishing campaign in a controlled lab, captured credentials, then mitigated using SPF, DKIM, and DMARC. Documented detection with SIEM alerts. | [View Project](https://github.com/yourname/phishing-simulation) |
-| **Malware Analysis – Static and Dynamic Techniques** | Performed static and behavioural analysis of malware samples in a controlled environment, extracted indicators of compromise (IOCs), and produced a threat intel report. | [View Project](https://github.com/yourname/malware-analysis-lab) |
-| **Cloud Security Lab – AWS/Azure** | Configured cloud resources, exploited misconfigured S3 bucket/IAM roles, enabled CloudTrail logging, and applied best practices for identity and access management. | [View Project](https://github.com/yourname/cloud-security-lab) |
-| **CTF / TryHackMe Walkthroughs** | Completed and documented 1–2 TryHackMe machines (Easy/Medium), showing methodology, exploitation, and post-exploitation steps. | [View Project](https://github.com/yourname/htb-walkthroughs) |
+| **Vulnerability Assessment: Ubuntu VM (DVWA, Juice Shop and Vulhub)** | Scanned intentionally vulnerable apps with nmap and OpenVAS, prioritised risks by CVSS, produced remediation reports. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/01-vuln-assessment-ubuntu |
+| **Web Application Penetration Testing: OWASP Juice Shop** | Tested against OWASP Top 10 using Burp Suite and ZAP, documented exploitation techniques and recommended improvements. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/02-web-pentest-juice-shop |
+| **Active Directory Domain Setup** | Built a Windows Server AD domain, created OUs and users, applied baseline Group Policy. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/03-ad-setup |
+| **Active Directory Attack and Hardening** | Mapped attack paths with BloodHound, demonstrated Kerberoasting and password spraying, then applied hardening and re-tested. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/04-ad-attack-hardening |
+| **SIEM Deployment and Log Analysis: Wazuh and ELK** | Deployed Wazuh, ingested Windows and Linux logs, created custom detection rules for suspicious behaviour. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/05-siem-wazuh |
+| **Threat Hunting with Sigma rules** | Wrote Sigma rules and ran hunts for lateral movement, persistence and credential access. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/06-threat-hunting-sigma |
+| **Incident Response Simulation** | Simulated a small incident, triaged, contained and recovered, produced a clear timeline and report. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/07-incident-response-sim |
+| **Phishing Simulation and Detection** | Built a safe phishing exercise, validated email authentication, added SIEM alerts. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/08-phishing-sim-detection |
+| **Malware Analysis: Static and Dynamic** | Analysed a safe sample, captured process and network behaviour, extracted IOCs and suggested detections. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/09-malware-analysis |
+| **Cloud Security Lab: AWS or Azure** | Reproduced a public storage misconfiguration, enabled logging, and applied least privilege IAM. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/10-cloud-security-aws-azure |
+| **CTF or TryHackMe Walkthroughs** | Clean, structured write ups showing methodology and learning. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/11-ctf-walkthroughs-optional |
 
 
 
