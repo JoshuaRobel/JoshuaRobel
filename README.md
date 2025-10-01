@@ -46,19 +46,14 @@ Sigma rules • Threat hunting • Incident response • Malware analysis
 
 ## 💻 Featured Projects
 
-| Project | Description | Link |
-|:---|:---|:---|
-| **Vulnerability Assessment: Ubuntu VM (DVWA, Juice Shop and Vulhub)** | Scanned intentionally vulnerable apps with nmap and OpenVAS, prioritised risks by CVSS, produced remediation reports. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/01-vuln-assessment-ubuntu |
-| **Web Application Penetration Testing: OWASP Juice Shop** | Tested against OWASP Top 10 using Burp Suite and ZAP, documented exploitation techniques and recommended improvements. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/02-web-pentest-juice-shop |
-| **Active Directory Domain Setup** | Built a Windows Server AD domain, created OUs and users, applied baseline Group Policy. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/03-ad-setup |
-| **Active Directory Attack and Hardening** | Mapped attack paths with BloodHound, demonstrated Kerberoasting and password spraying, then applied hardening and re-tested. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/04-ad-attack-hardening |
-| **SIEM Deployment and Log Analysis: Wazuh and ELK** | Deployed Wazuh, ingested Windows and Linux logs, created custom detection rules for suspicious behaviour. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/05-siem-wazuh |
-| **Threat Hunting with Sigma rules** | Wrote Sigma rules and ran hunts for lateral movement, persistence and credential access. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/06-threat-hunting-sigma |
-| **Incident Response Simulation** | Simulated a small incident, triaged, contained and recovered, produced a clear timeline and report. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/07-incident-response-sim |
-| **Phishing Simulation and Detection** | Built a safe phishing exercise, validated email authentication, added SIEM alerts. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/08-phishing-sim-detection |
-| **Malware Analysis: Static and Dynamic** | Analysed a safe sample, captured process and network behaviour, extracted IOCs and suggested detections. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/09-malware-analysis |
-| **Cloud Security Lab: AWS or Azure** | Reproduced a public storage misconfiguration, enabled logging, and applied least privilege IAM. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/10-cloud-security-aws-azure |
-| **CTF or TryHackMe Walkthroughs** | Clean, structured write ups showing methodology and learning. | https://github.com/JoshuaRobel/Cyber-Portfolio/tree/main/11-ctf-walkthroughs-optional |
+| Project                                                      | Description                                                                             | Key Skills                                | Status         |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------- | -------------- |
+| [01-SIEM-Log-Analysis](./01-SIEM-Log-Analysis)               | Wazuh/ELK stack with Windows + Linux log ingestion, detections, and dashboards.         | SIEM, Log Analysis, Detection Engineering | 🚧 In Progress |
+| [02-Active-Directory-Lab](./02-Active-Directory-Lab)         | Windows AD domain with simulated attacks (Kerberoasting, brute force) detected in SIEM. | AD Security, Windows Logs, Detection      | 🚧 In Progress |
+| [03-Sigma-Rules](./03-Sigma-Rules)                           | Custom Sigma rules mapped to MITRE ATT&CK, validated with lab logs.                     | Detection Engineering, ATT&CK Mapping     | 🚧 In Progress |
+| [04-Vulnerability-Management](./04-Vulnerability-Management) | OpenVAS scans of vulnerable hosts with triage + remediation plans.                      | Vulnerability Management, Risk Analysis   | 🚧 In Progress |
+| [05-Incident-Response](./05-Incident-Response)               | NIST 800-61 IR reports from simulated incidents.                                        | IR Process, Documentation, SOC Workflow   | 🚧 In Progress |
+| [06-Network-Monitoring](./06-Network-Monitoring)             | Zeek + Suricata for network visibility, PCAP analysis, and alerts.                      | Network Security, IDS/IPS, Threat Hunting | 🚧 In Progress |
 
 
 
