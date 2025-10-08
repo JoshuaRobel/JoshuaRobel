@@ -64,8 +64,8 @@ _"Building secure systems, one project at a time."_
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Joshuarobel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Joshuarobel| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Joshuarobel | LinkedIn" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joshuarobel| Instagram" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Joshuarobel | Github" src="https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png" alt="Your Image Badge" />][Github]
 
 [instagram]: https://www.instagram.com/joshuarobel/
