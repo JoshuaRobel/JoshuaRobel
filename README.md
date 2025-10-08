@@ -22,8 +22,6 @@ Currently focused on developing technical depth through structured home labs and
 ## 🔗 Main portfolio
 👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/Cyber-Portfolio)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png" alt="Your Image Badge" />
-
 ---
 
 ## 🛠 Skills and tools
@@ -68,7 +66,8 @@ _"Building secure systems, one project at a time."_
 
 [<img align="left" alt="Joshuarobel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joshuarobel| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img src="https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png" alt="Your Image Badge" />][Github]
 [instagram]: https://www.instagram.com/joshuarobel/
 [linkedin]: https://linkedin.com/in/joshuarobel
+[Github]: https://tryhackme.com/p/EasterBunnee
 
