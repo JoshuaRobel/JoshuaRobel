@@ -13,9 +13,9 @@ With a background in IT and business management, I bring an analytical mindset, 
 
 Currently focused on developing technical depth through structured home labs and certifications, with the goal of securing a cybersecurity role in a fast-paced, challenging environment.
 
-- 🎯 **Career Goal:** SOC Analyst | Blue Team Operations | Cyber Forensics 
-- 🛠 **Key Skills:** Network Security | Active Directory Security | Web Application Testing | SIEM Monitoring
-- 📚 **Active Learning:** Offensive Security | Blue Team Operations | Digital Forensics
+- 🎯 **Career Goal:** SOC Analyst | Cyber Forensics | Blue Team Operations
+- 🛠 **Key Skills:** Network Security | SIEM Monitoring
+- 📚 **Active Learning:** Defensive Security | Blue Team Operations | Cyber Forensics
 
 ---
 
