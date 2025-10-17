@@ -19,11 +19,6 @@ Currently focused on developing technical depth through structured home labs and
 
 ---
 
-## 🔗 Main portfolio
-👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/Cyber-Portfolio)
-
----
-
 ## 🛠 Skills and tools
 - Environments / OS: Kali Linux · Ubuntu · Mac OS · Windows · Docker
 - Network & Reconnaissance: Nmap · Wireshark · tcpdump · Gobuster
@@ -49,6 +44,12 @@ Currently focused on developing technical depth through structured home labs and
 </p>
 
 ---
+
+## 🔗 Main portfolio
+👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/Cyber-Portfolio)
+
+---
+
 
 ## 💻 Featured Projects
 
