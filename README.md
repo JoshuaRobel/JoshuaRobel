@@ -25,10 +25,16 @@ Currently focused on developing technical depth through structured home labs and
 ---
 
 ## 🛠 Skills and tools
-Kali Linux • Ubuntu • Windows • Active Directory  
-Docker • Burp Suite • OWASP ZAP  
-OpenVAS • Wazuh • Elastic (ELK)  
-Sigma rules • Threat hunting • Incident response • Malware analysis  
+Environments / OS: Kali Linux · Ubuntu · Mac OS · Windows · Docker
+Network & Reconnaissance: Nmap · Wireshark · tcpdump · Gobuster
+Web application security: Burp Suite · OWASP ZAP · SQLMap
+Exploitation & post-exploit: Metasploit
+Password & hash tools: Hydra · John the Ripper
+Malware & reverse/analysis: REMnux · FLARE VM · CyberChef
+SIEM / detection / logging: Wazuh · Elastic (ELK) · SIEM concepts (Splunk)
+IDS / IPS / rule writing: Snort · Suricata · Sigma rules
+Vulnerability scanning: OpenVAS
+Practices / disciplines: Threat hunting · Incident response · Malware analysis
 
 ---
 
