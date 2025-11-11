@@ -71,7 +71,7 @@ _"Building secure systems, one project at a time."_
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" src="https://images.weserv.nl/?url=https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png&cb=3" alt="Your Image Badge" />][Github]
+[<img align="left" src="https://images.weserv.nl/?url=https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png&cb=4" alt="Your Image Badge" />][Github]
 [<img align="left" alt="Joshuarobel | LinkedIn" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joshuarobel| Instagram" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
