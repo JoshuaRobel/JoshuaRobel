@@ -53,7 +53,7 @@ With a background in IT and business management, I bring strong problem-solving,
 ---
 
 ## 🔗 Main Portfolio
-👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/Cyber-Portfolio)
+👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/)
 
 ---
 
