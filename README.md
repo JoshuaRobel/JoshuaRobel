@@ -49,7 +49,7 @@ With a background in IT and business management, I bring strong problem-solving,
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Completed-brightgreen?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge"/>
   <img src="https://img.shields.io/badge/TryHackMe%20SAL1-Completed-brightgreen?style=for-the-badge" alt="TryHackMe SAL1 Badge"/>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge" alt="Google Cybersecurity Certificate Badge"/>
-  <img src="https://img.shields.io/badge/Certificate%20IV%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate IV in IT Badge"/>
+  <img src="https://img.shields.io/badge/Certificate%20III%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate III in IT Badge"/>
   <img src="https://img.shields.io/badge/Bachelor%20of%20Business%20(Griffith%20University)-Completed-brightgreen?logo=academia&logoColor=white&style=for-the-badge" alt="Griffith University Bachelor Badge"/>
 </p>
 
