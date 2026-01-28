@@ -2,42 +2,52 @@
 
 # 🔒 Josh's Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio — a showcase of hands-on labs, technical projects, and research designed to demonstrate practical skills across offensive security, defensive operations, and vulnerability management.
+Welcome to my cybersecurity portfolio — a growing collection of hands-on labs, investigations, and SOC-style documentation focused on **alert triage, log analysis, network monitoring, detection engineering, and incident response**.
 
 ---
 
 ## 🧠 About Me
-I am a cybersecurity professional, building a strong foundation across ethical hacking, threat detection, vulnerability assessment, and incident response.
+I’m building practical, job-relevant skills for a **SOC Analyst** role through structured labs and repeatable investigation workflows.
 
-With a background in IT and business management, I bring an analytical mindset, strong problem-solving skills, leadership skills and a drive to continuously learn and adapt in the ever-evolving cybersecurity landscape.
+With a background in IT and business management, I bring strong problem-solving, attention to detail, and clear documentation skills — with a focus on turning telemetry (logs, alerts, PCAPs) into decisions (benign / suspicious / escalate).
 
-Currently focused on developing technical depth through structured home labs and certifications, with the goal of securing a cybersecurity role in a fast-paced, challenging environment.
-
-- 🎯 **Career Goal:** SOC Analyst | Cyber Forensics | Blue Team Operations
-- 🛠 **Key Skills:** Network Security | SIEM Monitoring
-- 📚 **Active Learning:** Defensive Security | Blue Team Operations | Cyber Forensics
+- 🎯 **Career Goal:** SOC Analyst | Blue Team | Entry-level DFIR
+- 🧩 **Current Focus:** SIEM triage, Windows/Linux logging, alert investigation, and escalation-ready reporting
+- 📚 **Hands-on Practice:** Defensive Security labs, playbooks, and incident writeups
 
 ---
 
-## 🛠 Skills and tools
-- Environments / OS: Kali Linux · Ubuntu · Mac OS · Windows · Docker
-- Network & Reconnaissance: Nmap · Wireshark · tcpdump · Gobuster
-- Web application security: Burp Suite · OWASP ZAP · SQLMap
-- Exploitation & post-exploit: Metasploit
-- Password & hash tools: Hydra · John the Ripper
-- Malware & reverse/analysis: REMnux · FLARE VM · CyberChef
-- SIEM / detection / logging: Wazuh · Elastic (ELK) · SIEM concepts (Splunk)
-- IDS / IPS / rule writing: Snort · Suricata · Sigma rules
-- Vulnerability scanning: OpenVAS
-- Practices / disciplines: Threat hunting · Incident response · Malware analysis
+## 🛠 Skills and Tools
+
+**Operating Environments**
+- Kali Linux · Ubuntu · macOS · Windows · Docker
+
+**SOC / Detection / Logging**
+- Wazuh · Elastic (ELK) · SIEM concepts (Splunk-style workflows)
+- Windows Event Logs · Sysmon concepts · Linux auth logs
+
+**Network Visibility / Traffic Analysis**
+- Wireshark · tcpdump · Zeek (planned/learning) · Suricata · Snort
+
+**Recon / Security Tooling**
+- Nmap · Gobuster · Burp Suite · OWASP ZAP · SQLMap · Metasploit
+
+**Password / Hash**
+- Hydra · John the Ripper
+
+**Malware / Analysis (learning focus)**
+- REMnux · FLARE VM · CyberChef
+
+**Practices**
+- Alert triage · Investigation notes · IOC extraction · MITRE ATT&CK mapping · Incident response documentation · Threat hunting fundamentals
 
 ---
 
- ## 🏆 Certifications
+## 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-red?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge"/>
-  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-Planned-blue?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Network+ Badge"/>
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Completed-brightgreen?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe%20SAL1-Completed-brightgreen?style=for-the-badge" alt="TryHackMe SAL1 Badge"/>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge" alt="Google Cybersecurity Certificate Badge"/>
   <img src="https://img.shields.io/badge/Certificate%20IV%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate IV in IT Badge"/>
   <img src="https://img.shields.io/badge/Bachelor%20of%20Business%20(Griffith%20University)-Completed-brightgreen?logo=academia&logoColor=white&style=for-the-badge" alt="Griffith University Bachelor Badge"/>
@@ -45,37 +55,39 @@ Currently focused on developing technical depth through structured home labs and
 
 ---
 
-## 🔗 Main portfolio
+## 🔗 Main Portfolio
 👉 **Cybersecurity Portfolio repository:** [Cyber-Portfolio](https://github.com/JoshuaRobel/Cyber-Portfolio)
 
 ---
 
-
 ## 💻 Featured Projects
 
-| Project                                                      | Description                                                                             | Key Skills                                | Status         |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ----------------------------------------- | -------------- |
-| [01-SIEM-Log-Analysis](./01-SIEM-Log-Analysis)               | Wazuh/ELK stack with Windows + Linux log ingestion, detections, and dashboards.         | SIEM, Log Analysis, Detection Engineering | 🚧 In Progress |
-| [02-Active-Directory-Lab](./02-Active-Directory-Lab)         | Windows AD domain with simulated attacks (Kerberoasting, brute force) detected in SIEM. | AD Security, Windows Logs, Detection      | 🚧 In Progress |
-| [03-Sigma-Rules](./03-Sigma-Rules)                           | Custom Sigma rules mapped to MITRE ATT&CK, validated with lab logs.                     | Detection Engineering, ATT&CK Mapping     | 🚧 In Progress |
-| [04-Vulnerability-Management](./04-Vulnerability-Management) | OpenVAS scans of vulnerable hosts with triage + remediation plans.                      | Vulnerability Management, Risk Analysis   | 🚧 In Progress |
-| [05-Incident-Response](./05-Incident-Response)               | NIST 800-61 IR reports from simulated incidents.                                        | IR Process, Documentation, SOC Workflow   | 🚧 In Progress |
-| [06-Network-Monitoring](./06-Network-Monitoring)             | Zeek + Suricata for network visibility, PCAP analysis, and alerts.                      | Network Security, IDS/IPS, Threat Hunting | 🚧 In Progress |
-
-
-
+| Project | Description | SOC-Relevant Skills | Status |
+| --- | --- | --- | --- |
+| [01-SIEM-Log-Analysis](./01-SIEM-Log-Analysis) | Wazuh/ELK stack with Windows + Linux log ingestion, basic detections, and dashboards for investigation practice. | SIEM, Log Analysis, Alert Triage | 🚧 In Progress |
+| [02-Active-Directory-Lab](./02-Active-Directory-Lab) | Windows AD domain with simulated activity (brute force, Kerberoasting-style scenarios) and investigation notes from SIEM telemetry. | Windows Logs, AD Security, Detection/Triage | 🚧 In Progress 
+| [03-Sigma-Rules](./03-Sigma-Rules) | Custom Sigma rules mapped to MITRE ATT&CK with validation notes (what triggered, what didn’t, tuning ideas). | Detection Engineering, ATT&CK Mapping | 🚧 In Progress |
+| [04-Vulnerability-Management](./04-Vulnerability-Management) | OpenVAS scans of vulnerable hosts with triage, prioritisation, and remediation plans. | Vulnerability Mgmt, Risk Analysis | 🚧 In Progress |
+| [05-Incident-Response](./05-Incident-Response) | SOC-style incident reports and timelines based on simulated incidents and log evidence. | IR Workflow, Reporting, Escalation Thinking | 🚧 In Progress |
+| [06-Network-Monitoring](./06-Network-Monitoring) | Suricata/Snort alerting + PCAP analysis writeups to build investigation muscle. | Network Monitoring, IDS/IPS, Threat Hunting | 🚧 In Progress |
 
 ---
 
-_"Building secure systems, one project at a time."_
+### 🔍 What you’ll see in my repos
+- Clear lab objectives (what I’m testing)
+- Investigation artifacts (logs, screenshots, queries, timelines)
+- SOC-style writeups (triage → findings → IOCs → recommendation → escalation decision)
+
+---
+
+_"Building SOC-ready skills through repeatable investigations and clean documentation."_
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" src="https://images.weserv.nl/?url=https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png&cb=12" alt="Your Image Badge" />][Github]
+[<img align="left" src="https://images.weserv.nl/?url=https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png&cb=12" alt="TryHackMe Badge" />][Github]
 [<img align="left" alt="Joshuarobel | LinkedIn" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joshuarobel| Instagram" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [Github]: https://tryhackme.com/p/EasterBunnee
 [instagram]: https://www.instagram.com/joshuarobel/
 [linkedin]: https://linkedin.com/in/joshuarobel
-
