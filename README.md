@@ -53,7 +53,7 @@ With a background in IT and business management, I bring strong problem-solving,
 
 | Project | Description | SOC-Relevant Skills | Status |
 | --- | --- | --- | --- |
-| [01-SIEM-Triage-and-Investigation](https://github.com/JoshuaRobel/01-SIEM-Triage-and-Investigation) | SIEM lab with Windows + Linux log ingestion, alerting, dashboards, and SOC-style investigations (triage → evidence → IOCs → decision). | SIEM, Alert Triage, Log Analysis | 🚧 In Progress |
+| [01-SIEM-Triage-and-Investigation](https://github.com/JoshuaRobel/01-SIEM-Triage-and-Investigation) | SIEM lab with Windows + Linux log ingestion, alerting, dashboards, and SOC-style investigations (triage → evidence → IOCs → decision). | SIEM, Alert Triage, Log Analysis | ✅ Completed |
 | [02-Windows-SOC-Monitoring](https://github.com/JoshuaRobel/02-Windows-SOC-Monitoring) | Windows monitoring lab (AD + endpoints) focused on detecting suspicious auth activity and producing investigation writeups. | Windows Logs, Auth Analysis, SOC Investigation | 🚧 In Progress |
 | [03-Network-Traffic-and-Alert-Analysis](https://github.com/JoshuaRobel/03-Network-Traffic-and-Alert-Analysis) | Suricata/Snort alerting + PCAP analysis writeups to validate detections and extract IOCs. | Network Monitoring, IDS Alerts, PCAP Analysis | 🚧 In Progress |
 | [04-SOC-Detections-and-Sigma](https://github.com/JoshuaRobel/04-SOC-Detections-and-Sigma) | Sigma rules mapped to MITRE ATT&CK with testing notes, tuning, and investigation guidance. | Detection Engineering, ATT&CK Mapping | 🚧 In Progress |
