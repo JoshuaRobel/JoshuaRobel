@@ -32,9 +32,6 @@ With a background in IT and business management, I bring strong problem-solving,
 - Hydra · John the Ripper
 - CyberChef (analysis/enrichment workflows)
 
-**Malware / Triage (learning focus)**
-- REMnux · FLARE VM (fundamentals)
-
 **Practices**
 - Alert triage · Investigation documentation · IOC extraction · Threat hunting fundamentals · Incident response reporting
 
