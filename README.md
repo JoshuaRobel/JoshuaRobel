@@ -78,4 +78,4 @@ _"Building SOC-ready skills through repeatable investigations and clean document
 [<img align="left" alt="Joshuarobel | LinkedIn" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [Github]: https://tryhackme.com/p/EasterBunnee
-[instagram]: https://www.instagram.com/joshuarobel/
+[linkedin]: https://linkedin.com/in/joshuarobel
