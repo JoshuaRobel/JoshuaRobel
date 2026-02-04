@@ -76,8 +76,6 @@ _"Building SOC-ready skills through repeatable investigations and clean document
 
 [<img align="left" src="https://images.weserv.nl/?url=https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png&cb=12" alt="TryHackMe Badge" />][Github]
 [<img align="left" alt="Joshuarobel | LinkedIn" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Joshuarobel| Instagram" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [Github]: https://tryhackme.com/p/EasterBunnee
 [instagram]: https://www.instagram.com/joshuarobel/
-[linkedin]: https://linkedin.com/in/joshuarobel
