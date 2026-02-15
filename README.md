@@ -47,6 +47,7 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 | [04-SOC-Detections-and-Sigma](https://github.com/JoshuaRobel/04-SOC-Detections-and-Sigma) | Detection engineering — Sigma rules, MITRE mapping, Splunk SPL conversion | ✅ Complete |
 | [05-SOC-Incident-Reports](https://github.com/JoshuaRobel/05-SOC-Incident-Reports) | Structured incident response — 5W documentation, impact assessment, escalation | ✅ Complete |
 | [06-Phishing-Triage-and-Email-Analysis](https://github.com/JoshuaRobel/06-Phishing-Triage-and-Email-Analysis) | Email security operations — phishing analysis, header forensics, BEC detection | ✅ Complete |
+| [07-SOC-Automation-Scripts](https://github.com/JoshuaRobel/07-SOC-Automation-Scripts) | Python & PowerShell automation — IOC enrichment, log parsing, Sigma conversion | ✅ Complete |
 
 **Each repository includes:**
 - Clear investigation objectives
