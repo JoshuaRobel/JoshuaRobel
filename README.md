@@ -90,7 +90,7 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 
 ## 💡 What I'm Looking For
 
-**SOC Analyst opportunities** — entry-level or junior roles where I can:
+**SOC Analyst or Cybersecurity opportunities**
 - Triage security alerts and investigate incidents
 - Build detections and tune security tools
 - Document findings and communicate with stakeholders
