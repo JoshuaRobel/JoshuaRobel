@@ -48,6 +48,7 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 | [05-SOC-Incident-Reports](https://github.com/JoshuaRobel/05-SOC-Incident-Reports) | Structured incident response — 5W documentation, impact assessment, escalation | ✅ Complete |
 | [06-Phishing-Triage-and-Email-Analysis](https://github.com/JoshuaRobel/06-Phishing-Triage-and-Email-Analysis) | Email security operations — phishing analysis, header forensics, BEC detection | ✅ Complete |
 | [07-SOC-Automation-Scripts](https://github.com/JoshuaRobel/07-SOC-Automation-Scripts) | Python & PowerShell automation — IOC enrichment, log parsing, Sigma conversion | ✅ Complete |
+| [08-TryHackMe-Journey](https://github.com/JoshuaRobel/08-TryHackMe-Journey) | TryHackMe SOC Level 1 pathway — 120+ hours hands-on training | ✅ Complete |
 
 **Each repository includes:**
 - Clear investigation objectives
@@ -76,6 +77,7 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 | **Phishing Cases** | 5 analyzed (3 malicious, 1 suspicious, 1 benign) |
 | **Incident Reports** | 5 full IR cases (ransomware, BEC, brute force) |
 | **Techniques Mapped** | 25+ MITRE ATT&CK techniques |
+| **Training Completed** | 120+ hours (TryHackMe SOC Level 1) |
 
 ---
 
