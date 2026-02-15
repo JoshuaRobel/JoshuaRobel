@@ -41,12 +41,12 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 
 | Project | Focus | Status |
 |---------|-------|--------|
-| [01-SIEM-Triage-and-Investigation](./01-SIEM-Triage-and-Investigation) | Enterprise SOC simulation with Splunk — alert triage, investigations, dashboards | ✅ Complete |
-| [02-Windows-SOC-Monitoring](./02-Windows-SOC-Monitoring) | Windows Active Directory monitoring — privilege escalation, lateral movement detection | ✅ Complete |
-| [03-Network-Traffic-and-Alert-Analysis](./03-Network-Traffic-and-Alert-Analysis) | Snort IDS + Wireshark — packet analysis, threat validation, IOC extraction | ✅ Complete |
-| [04-SOC-Detections-and-Sigma](./04-SOC-Detections-and-Sigma) | Detection engineering — Sigma rules, MITRE mapping, Splunk SPL conversion | ✅ Complete |
-| [05-SOC-Incident-Reports](./05-SOC-Incident-Reports) | Structured incident response — 5W documentation, impact assessment, escalation | ✅ Complete |
-| [06-Phishing-Triage-and-Email-Analysis](./06-Phishing-Triage-and-Email-Analysis) | Email security operations — phishing analysis, header forensics, BEC detection | ✅ Complete |
+| [01-SIEM-Triage-and-Investigation](https://github.com/JoshuaRobel/01-SIEM-Triage-and-Investigation) | Enterprise SOC simulation with Splunk — alert triage, investigations, dashboards | ✅ Complete |
+| [02-Windows-SOC-Monitoring](https://github.com/JoshuaRobel/02-Windows-SOC-Monitoring) | Windows Active Directory monitoring — privilege escalation, lateral movement detection | ✅ Complete |
+| [03-Network-Traffic-and-Alert-Analysis](https://github.com/JoshuaRobel/03-Network-Traffic-and-Alert-Analysis) | Snort IDS + Wireshark — packet analysis, threat validation, IOC extraction | ✅ Complete |
+| [04-SOC-Detections-and-Sigma](https://github.com/JoshuaRobel/04-SOC-Detections-and-Sigma) | Detection engineering — Sigma rules, MITRE mapping, Splunk SPL conversion | ✅ Complete |
+| [05-SOC-Incident-Reports](https://github.com/JoshuaRobel/05-SOC-Incident-Reports) | Structured incident response — 5W documentation, impact assessment, escalation | ✅ Complete |
+| [06-Phishing-Triage-and-Email-Analysis](https://github.com/JoshuaRobel/06-Phishing-Triage-and-Email-Analysis) | Email security operations — phishing analysis, header forensics, BEC detection | ✅ Complete |
 
 **Each repository includes:**
 - Clear investigation objectives
@@ -80,7 +80,7 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/joshuarobel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/joshuarobel)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/EasterBunnee)
 
 ---
