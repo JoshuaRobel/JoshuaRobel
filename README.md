@@ -1,81 +1,100 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshuarobel/">Cybersecurity Professional</a>
+# Hi, I'm Josh — Cybersecurity Analyst
 
-# 🔒 Josh's Cybersecurity Portfolio
+🔒 **SOC Analyst | Blue Team Operations | Entry-level DFIR**
 
-Welcome to my cybersecurity portfolio — a growing collection of hands-on labs, investigations, and SOC-style documentation focused on **alert triage, log analysis, network monitoring, detection engineering, and incident response**.
-
----
-
-## 🧠 About Me
-I’m building practical, job-relevant skills for a **SOC Analyst** role through structured labs and repeatable investigation workflows.
-
-With a background in IT and business management, I bring strong problem-solving, attention to detail, and clear documentation skills — with a focus on turning telemetry (logs, alerts, PCAPs) into decisions (benign / suspicious / escalate).
-
-- 🎯 **Career Goal:** SOC Analyst | Blue Team Operations | Entry-level DFIR
-- 🧩 **Current Focus:** SIEM triage, Windows/Linux monitoring, phishing analysis, network traffic analysis, and escalation-ready reporting
-- 📚 **Hands-on Practice:** Playbooks, alert investigations, detections, and incident writeups
+Building practical, job-ready SOC skills through hands-on labs, investigations, and security operations workflows.
 
 ---
 
-## 🛠 Skills and Tools
+## 🎯 Career Goal
 
-**SOC / Detection / Logging**
-- Wazuh · Elastic (ELK) · SIEM workflows (Splunk concepts)
-- Windows Event Logs · Sysmon concepts · Linux auth logs
-- Sigma rules · MITRE ATT&CK mapping · IOC enrichment
+**SOC Analyst** — focused on alert triage, threat detection, incident response, and security monitoring.
 
-**Network Monitoring / Traffic Analysis**
-- Wireshark · tcpdump · Suricata · Snort (Zeek learning)
+I bring strong problem-solving, attention to detail, and clear documentation skills from my IT and business management background. My focus is turning telemetry (logs, alerts, PCAPs) into actionable decisions.
 
-**Security Tooling**
-- Nmap · Gobuster · Burp Suite · OWASP ZAP · SQLMap · Metasploit
-- Hydra · John the Ripper
-- CyberChef (analysis/enrichment workflows)
+---
 
-**Practices**
-- Alert triage · Investigation documentation · IOC extraction · Threat hunting fundamentals · Incident response reporting
+## 🛠️ Technical Skills
+
+### SOC / Detection / Logging
+- **SIEM:** Splunk Enterprise, Wazuh, Elastic (ELK Stack)
+- **Windows Security:** Event Log analysis, Sysmon, Active Directory monitoring
+- **Detection Engineering:** Sigma rules, MITRE ATT&CK mapping, alert tuning
+- **Log Analysis:** Windows Event Logs, Linux auth logs, authentication patterns
+
+### Network Security / Traffic Analysis
+- **Tools:** Wireshark, tcpdump, Snort IDS, Suricata
+- **Skills:** PCAP analysis, TCP stream reconstruction, protocol analysis (HTTP/DNS), IOC extraction
+
+### Threat Intelligence & Investigation
+- **IOC Enrichment:** VirusTotal, URLScan, CyberChef
+- **Email Security:** Header analysis, SPF/DKIM/DMARC, phishing triage
+- **Malware Analysis:** Static analysis, sandbox detonation (Any.Run, Hybrid Analysis)
+
+### Security Tooling
+- **Penetration Testing Tools:** Nmap, Gobuster, Burp Suite, Metasploit, SQLMap, Hydra, John the Ripper
+- **Forensics:** Memory forensics concepts, disk imaging, evidence preservation
+
+---
+
+## 📂 Featured Projects
+
+| Project | Focus | Status |
+|---------|-------|--------|
+| [01-SIEM-Triage-and-Investigation](./01-SIEM-Triage-and-Investigation) | Enterprise SOC simulation with Splunk — alert triage, investigations, dashboards | ✅ Complete |
+| [02-Windows-SOC-Monitoring](./02-Windows-SOC-Monitoring) | Windows Active Directory monitoring — privilege escalation, lateral movement detection | ✅ Complete |
+| [03-Network-Traffic-and-Alert-Analysis](./03-Network-Traffic-and-Alert-Analysis) | Snort IDS + Wireshark — packet analysis, threat validation, IOC extraction | ✅ Complete |
+| [04-SOC-Detections-and-Sigma](./04-SOC-Detections-and-Sigma) | Detection engineering — Sigma rules, MITRE mapping, Splunk SPL conversion | ✅ Complete |
+| [05-SOC-Incident-Reports](./05-SOC-Incident-Reports) | Structured incident response — 5W documentation, impact assessment, escalation | ✅ Complete |
+| [06-Phishing-Triage-and-Email-Analysis](./06-Phishing-Triage-and-Email-Analysis) | Email security operations — phishing analysis, header forensics, BEC detection | ✅ Complete |
+
+**Each repository includes:**
+- Clear investigation objectives
+- Evidence artifacts (logs, screenshots, queries, timelines)
+- SOC-style documentation (triage → findings → IOCs → decision)
+- MITRE ATT&CK technique mapping
 
 ---
 
 ## 🏆 Certifications
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Completed-brightgreen?logo=comptia&logoColor=white&style=for-the-badge" alt="CompTIA Security+ Badge"/>
-  <img src="https://img.shields.io/badge/TryHackMe%20SAL1-Completed-brightgreen?style=for-the-badge" alt="TryHackMe SAL1 Badge"/>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge" alt="Google Cybersecurity Certificate Badge"/>
-  <img src="https://img.shields.io/badge/Certificate%203%20in%20IT-Completed-brightgreen?style=for-the-badge" alt="Certificate 3 in IT Badge"/>
-  <img src="https://img.shields.io/badge/Bachelor%20of%20Business%20(Griffith%20University)-Completed-brightgreen?logo=academia&logoColor=white&style=for-the-badge" alt="Griffith University Bachelor Badge"/>
-</p>
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Completed-brightgreen?logo=comptia&logoColor=white&style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe%20SAL1-Completed-brightgreen?style=for-the-badge)
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge)
+![Certificate 3 in IT](https://img.shields.io/badge/Certificate%203%20in%20IT-Completed-brightgreen?style=for-the-badge)
+![Bachelor of Business](https://img.shields.io/badge/Bachelor%20of%20Business%20(Griffith%20University)-Completed-brightgreen?logo=academia&logoColor=white&style=for-the-badge)
 
 ---
 
-## 💻 Featured Projects
+## 📊 Portfolio Stats
 
-| Project | Description | SOC-Relevant Skills | Status |
-| --- | --- | --- | --- |
-| [01-SIEM-Triage-and-Investigation](https://github.com/JoshuaRobel/01-SIEM-Triage-and-Investigation) | SIEM lab with Windows + Linux log ingestion, alerting, dashboards, and SOC-style investigations (triage → evidence → IOCs → decision). | SIEM, Alert Triage, Log Analysis | ✅ Completed |
-| [02-Windows-SOC-Monitoring](https://github.com/JoshuaRobel/02-Windows-SOC-Monitoring) | Windows monitoring lab (AD + endpoints) focused on detecting suspicious auth activity and producing investigation writeups. | Windows Logs, Auth Analysis, SOC Investigation | ✅ Completed |
-| [03-Network-Traffic-and-Alert-Analysis](https://github.com/JoshuaRobel/03-Network-Traffic-and-Alert-Analysis) | Snort alerting + PCAP analysis writeups to validate detections and extract IOCs. | Network Monitoring, IDS Alerts, PCAP Analysis | 🚧 In Progress |
-| [04-SOC-Detections-and-Sigma](https://github.com/JoshuaRobel/04-SOC-Detections-and-Sigma) | Sigma rules mapped to MITRE ATT&CK with testing notes, tuning, and investigation guidance. | Detection Engineering, ATT&CK Mapping | 🚧 In Progress |
-| [05-SOC-Incident-Reports](https://github.com/JoshuaRobel/05-SOC-Incident-Reports) | SOC-ready incident reports using structured templates (5Ws, intent, impact, IOCs, recommendations, escalation decision). | IR Documentation, Case Management | 🚧 In Progress |
-| [06-Phishing-Triage-and-Email-Analysis](https://github.com/JoshuaRobel/06-Phishing-Triage-and-Email-Analysis) | Phishing triage workflow: header analysis, link/attachment review, IOC extraction, and recommended actions. | Phishing Analysis, IOC Enrichment, Triage | 🆕 Planned |
-
+| Metric | Count |
+|--------|-------|
+| **Total Investigations** | 15+ documented cases |
+| **Detection Rules** | 5 Sigma rules with SPL conversion |
+| **Phishing Cases** | 5 analyzed (3 malicious, 1 suspicious, 1 benign) |
+| **Incident Reports** | 5 full IR cases (ransomware, BEC, brute force) |
+| **Techniques Mapped** | 25+ MITRE ATT&CK techniques |
 
 ---
 
-### 🔍 What you’ll see in my repos
-- Clear objectives (what I’m detecting / validating)
-- Investigation artifacts (logs, screenshots, queries, timelines, PCAPs)
-- SOC-style writeups (triage → findings → IOCs → recommendation → escalation decision)
-  
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/joshuarobel)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/EasterBunnee)
+
 ---
 
-_"Building SOC-ready skills through repeatable investigations and clean documentation."_
+## 💡 What I'm Looking For
 
-<h2> 🤳 Connect with me:</h2>
+**SOC Analyst opportunities** — entry-level or junior roles where I can:
+- Triage security alerts and investigate incidents
+- Build detections and tune security tools
+- Document findings and communicate with stakeholders
+- Grow into threat hunting and DFIR
 
-[<img align="left" src="https://images.weserv.nl/?url=https://tryhackme-badges.s3.amazonaws.com/EasterBunnee.png&cb=12" alt="TryHackMe Badge" />][Github]
-[<img align="left" alt="Joshuarobel | LinkedIn" width="85px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site opportunities.
 
-[Github]: https://tryhackme.com/p/EasterBunnee
-[linkedin]: https://linkedin.com/in/joshuarobel
+---
+
+*"Building SOC-ready skills through repeatable investigations and clean documentation."*
