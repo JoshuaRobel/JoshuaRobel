@@ -61,7 +61,7 @@ I bring strong problem-solving, attention to detail, and clear documentation ski
 ## 🏆 Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Completed-brightgreen?logo=comptia&logoColor=white&style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe%20SAL1-Completed-brightgreen?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe%20SAL1-In-Progress-brightblue?style=for-the-badge)
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-Completed-brightgreen?logo=google&logoColor=white&style=for-the-badge)
 ![Certificate 3 in IT](https://img.shields.io/badge/Certificate%203%20in%20IT-Completed-brightgreen?style=for-the-badge)
 ![Bachelor of Business](https://img.shields.io/badge/Bachelor%20of%20Business%20(Griffith%20University)-Completed-brightgreen?logo=academia&logoColor=white&style=for-the-badge)
