@@ -56,13 +56,13 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 | Project | Focus | Status |
 |---------|-------|--------|
-| [01 — Cyber Defence Frameworks](./01-Cyber-Defence-Frameworks) | Security operations methodologies, MITRE ATT&CK mapping, Cyber Kill Chain analysis, defence in depth | ✅ Complete |
-| [02 — Cyber Threat Intelligence](./02-Cyber-Threat-Intelligence) | IOC management, threat feeds, Diamond Model analysis, intelligence reporting | ✅ Complete |
-| [03 — Network Security & Traffic Analysis](./03-Network-Security-and-Traffic-Analysis) | Wireshark analysis, Zeek logs, Snort IDS alerts, network investigations (3 cases) | ✅ Complete |
-| [04 — Endpoint Security Monitoring](./04-Endpoint-Security-Monitoring) | Windows Event Logs, Sysmon analysis, EDR alerts, endpoint investigations | ✅ Complete |
-| [05 — Security Information & Event Management](./05-Security-Information-and-Event-Management) | Splunk queries, Sigma detection rules, SIEM investigations (3 cases) | ✅ Complete |
-| [06 — Digital Forensics & Incident Response](./06-Digital-Forensics-and-Incident-Response) | Incident reports (5 cases), phishing analysis (5 cases), response playbooks | ✅ Complete |
-| [07 — SOC Tools & Automation](./07-SOC-Tools-and-Automation) | Python & PowerShell scripts for IOC enrichment, log parsing, automation | ✅ Complete |
+| [01 — Cyber Defence Frameworks](https://github.com/JoshuaRobel/01-Cyber-Defence-Frameworks) | Security operations methodologies, MITRE ATT&CK mapping, Cyber Kill Chain analysis, defence in depth | ✅ Complete |
+| [02 — Cyber Threat Intelligence](https://github.com/JoshuaRobel/02-Cyber-Threat-Intelligence) | IOC management, threat feeds, Diamond Model analysis, intelligence reporting | ✅ Complete |
+| [03 — Network Security & Traffic Analysis](https://github.com/JoshuaRobel/03-Network-Security-and-Traffic-Analysis) | Wireshark analysis, Zeek logs, Snort IDS alerts, network investigations (3 cases) | ✅ Complete |
+| [04 — Endpoint Security Monitoring](https://github.com/JoshuaRobel/04-Endpoint-Security-Monitoring) | Windows Event Logs, Sysmon analysis, EDR alerts, endpoint investigations | ✅ Complete |
+| [05 — Security Information & Event Management](https://github.com/JoshuaRobel/05-Security-Information-and-Event-Management) | Splunk queries, Sigma detection rules, SIEM investigations (3 cases) | ✅ Complete |
+| [06 — Digital Forensics & Incident Response](https://github.com/JoshuaRobel/06-Digital-Forensics-and-Incident-Response) | Incident reports (5 cases), phishing analysis (5 cases), response playbooks | ✅ Complete |
+| [07 — SOC Tools & Automation](https://github.com/JoshuaRobel/07-SOC-Tools-and-Automation) | Python & PowerShell scripts for IOC enrichment, log parsing, automation | ✅ Complete |
 
 **Each project includes:**
 - Clear investigation objectives
@@ -98,7 +98,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ## 🗂️ Repository Structure
 
-### [01 — Cyber Defence Frameworks](./01-Cyber-Defence-Frameworks)
+### [01 — Cyber Defence Frameworks](https://github.com/JoshuaRobel/01-Cyber-Defence-Frameworks)
 **Security operations methodologies and frameworks**
 
 - Cyber Kill Chain analysis and detection strategies
@@ -109,7 +109,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ---
 
-### [02 — Cyber Threat Intelligence](./02-Cyber-Threat-Intelligence)
+### [02 — Cyber Threat Intelligence](https://github.com/JoshuaRobel/02-Cyber-Threat-Intelligence)
 **IOC management, threat feeds, and intelligence analysis**
 
 - IOC extraction and enrichment pipelines
@@ -120,7 +120,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ---
 
-### [03 — Network Security & Traffic Analysis](./03-Network-Security-and-Traffic-Analysis)
+### [03 — Network Security & Traffic Analysis](https://github.com/JoshuaRobel/03-Network-Security-and-Traffic-Analysis)
 **Network-based threat detection and packet analysis**
 
 | Investigation | Alert Type | Tools | Status |
@@ -131,7 +131,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ---
 
-### [04 — Endpoint Security Monitoring](./04-Endpoint-Security-Monitoring)
+### [04 — Endpoint Security Monitoring](https://github.com/JoshuaRobel/04-Endpoint-Security-Monitoring)
 **Windows and endpoint telemetry analysis**
 
 - Windows Event Log analysis (Security, System, Sysmon)
@@ -142,7 +142,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ---
 
-### [05 — Security Information & Event Management (SIEM)](./05-Security-Information-and-Event-Management)
+### [05 — Security Information & Event Management (SIEM)](https://github.com/JoshuaRobel/05-Security-Information-and-Event-Management)
 **Log aggregation, detection engineering, and alert management**
 
 #### Investigations
@@ -166,7 +166,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ---
 
-### [06 — Digital Forensics & Incident Response](./06-Digital-Forensics-and-Incident-Response)
+### [06 — Digital Forensics & Incident Response](https://github.com/JoshuaRobel/06-Digital-Forensics-and-Incident-Response)
 **Structured incident response and forensic analysis**
 
 #### Incident Reports
@@ -191,7 +191,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 
 ---
 
-### [07 — SOC Tools & Automation](./07-SOC-Tools-and-Automation)
+### [07 — SOC Tools & Automation](https://github.com/JoshuaRobel/07-SOC-Tools-and-Automation)
 **Python & PowerShell utilities for security operations**
 
 | Script | Language | Purpose |
