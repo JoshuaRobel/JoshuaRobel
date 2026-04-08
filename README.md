@@ -47,17 +47,7 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 ---
 
 ## 📂 Featured Projects
-
-
----
-
-## 💡 What I'm Looking For
-
-**SOC Analyst opportunities** — entry-level or junior roles where I can:
-- Triage security alerts and investigate incidents
-- Build detections and tune security tools
-- Document findings and communicate with stakeholders
-- Grow into threat hunting and DFIR
+*WIP*
 
 ---
 
