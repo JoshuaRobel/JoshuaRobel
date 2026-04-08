@@ -1,16 +1,10 @@
 # Hi, I'm Josh — Security Operations Centre (SOC) Analyst
 
-🔒 **SOC Analyst | Blue Team Operations | Incident Response**
+🔒 **SOC Analyst | Security Advisor | Blue Team Operations | Incident Response**
 
 Building practical, job-ready SOC skills through hands-on investigations, detection engineering, and security operations workflows. I bring strong problem-solving, attention to detail, and clear documentation skills from my IT and business management background. My focus is turning telemetry (logs, alerts, PCAPs) into actionable decisions.
 
----
-
-## 🎯 Career Goal
-
-**SOC Analyst** — focused on alert triage, threat detection, incident response, and security monitoring.
-
-I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site opportunities in SOC analyst roles (entry-level to mid-level).
+I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site opportunities in Cybersecurity.
 
 ---
 
