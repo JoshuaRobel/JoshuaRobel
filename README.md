@@ -1,4 +1,4 @@
-# Hi, I'm Josh — Security Operations Centre (SOC) Analyst
+# Hi, I'm Josh — CyberSecurity Analyst
 
 🔒 **SOC Analyst | Security Advisor | Blue Team Operations | Incident Response**
 
