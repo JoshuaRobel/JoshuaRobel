@@ -51,8 +51,8 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 | Project | Overview | Skills Demonstrated | Demo |
 |----------|----------|--------------------|------|
 | **Rapid7 Agent Installation & Endpoint Onboarding** | Installed and validated a Rapid7 endpoint agent on a Windows VM and verified ingestion into InsightIDR. | Rapid7 InsightIDR, Endpoint Monitoring, Asset Management, Windows, VM Administration | [View Project](https://github.com/JoshuaRobel/rapid7-agent-installation) |
-| **Rapid7 Detection Rule – Suspicious PowerShell Parent-Child Execution** | Built a custom Rapid7 detection rule to identify suspicious PowerShell spawning `nslookup.exe`, then validated alert generation. | SIEM Engineering, Detection Logic, PowerShell, Windows Telemetry, Alert Validation, Rapid7 | [View Project](https://github.com/JoshuaRobel/rapid7-powershell-detection-rule) |
-| **Rapid7 Detection Rule – Persistence via Scheduled Task** | Created and tested a detection rule to identify scheduled task persistence using `schtasks.exe`. | Persistence Detection, MITRE ATT&CK, Windows Security Monitoring, Detection Engineering | [View Project](https://github.com/JoshuaRobel/rapid7-scheduled-task-persistence) |
+| **Detection Rule – Suspicious PowerShell Parent-Child Execution** | Built a custom Rapid7 detection rule to identify suspicious PowerShell spawning `nslookup.exe`, then validated alert generation. | SIEM Engineering, Detection Logic, PowerShell, Windows Telemetry, Alert Validation, Rapid7 | [View Project](https://github.com/JoshuaRobel/rapid7-powershell-detection-rule) |
+| **Detection Rule – Persistence via Scheduled Task** | Created and tested a detection rule to identify scheduled task persistence using `schtasks.exe`. | Persistence Detection, MITRE ATT&CK, Windows Security Monitoring, Detection Engineering | [View Project](https://github.com/JoshuaRobel/rapid7-scheduled-task-persistence) |
 
 ---
 
