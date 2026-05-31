@@ -1,4 +1,4 @@
-# Hi, I'm Josh — CyberSecurity Analyst
+# Hi, I'm Josh — CyberSecurity Analyst / Engineer
 
 🔒 **SOC Analyst | Security Advisor | Blue Team Operations | Incident Response**
 
@@ -63,5 +63,3 @@ I'm based on the Gold Coast, Australia. Open to remote, hybrid, or on-site oppor
 ---
 
 *"Building SOC-ready skills through repeatable investigations and clean documentation."*
-
-**Last Updated:** February 2026
